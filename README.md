@@ -2,4 +2,4 @@
 ML SALARY PREDICTION PROJECT
 ## 📄 Project Report
 
-👉 [Download Capstone Report](SALARY PROJECT/REPORT/README.pdf)
+👉 [Download Capstone Report](SALARY%20PROJECT/REPORT/README.pdf)
